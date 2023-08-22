@@ -11,15 +11,15 @@ In this project, we use Supervised Machine Learning (classification) Machine Lea
 
 The churn analytics predictive model is a data-driven solution designed to address the persistent challenge of customer churn in subscription-based industries. This model aims to identify customers at risk of churn, enabling businesses to take proactive measures and implement targeted retention strategies.
 
-## 📑 Table of Contents 🔖
+## Table of Contents 🔖
 - [Project Overview](#project-overview)
-- [Project Links](#Project-Links-🔗)
-- [Some Tools Used For The Project](#Some-Tools-Used-For-The-Project-🚀)
-- [Dataset](#Dataset-💾)
-- [Process](#Process)
-- [Conclusion and Recommendation](#Conclusion-and-Recommendation)
-- [How to use this repository](#How-to-use-this-repository)
-- [Author](#Author)
+- [Project Links](#project-links-)
+- [Some Tools Used For The Project](#some-tools-used-for-the-project-)
+- [Dataset](#dataset-)
+- [Process](#process-)
+- [Conclusion and Recommendation](#conclusion-and-recommendation-)
+- [How to use this repository](#how-to-use-this-repository-monocle_face)
+- [Author](#author%EF%B8%8F)
 
 ## Project Links 🔗
 
@@ -156,7 +156,7 @@ The churn analytics predictive model is a data-driven solution designed to addre
 </table>
 
 
-## Process :paper
+## Process
 
 -   Pull data from multiple sources, including remote sql server database
 
