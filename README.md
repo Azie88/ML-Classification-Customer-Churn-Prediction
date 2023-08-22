@@ -13,9 +13,9 @@ The churn analytics predictive model is a data-driven solution designed to addre
 
 ## 📑 Table of Contents 🔖
 - [Project Overview](#project-overview)
-- [Project Links](#Project-Links)
-- [Some Tools Used For The Project](#Some-Tools-Used-For-The-Project)
-- [Dataset](#Dataset)
+- [Project Links](#Project-Links-🔗)
+- [Some Tools Used For The Project](#Some-Tools-Used-For-The-Project-🚀)
+- [Dataset](#Dataset-💾)
 - [Process](#Process)
 - [Conclusion and Recommendation](#Conclusion-and-Recommendation)
 - [How to use this repository](#How-to-use-this-repository)
@@ -27,8 +27,7 @@ The churn analytics predictive model is a data-driven solution designed to addre
 | ---- | ---------------------------------------- | :---------------------------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | LP 2 | [Customer Churn Classification Model](https://github.com/Azie88/ML-Classification-Customer-Churn-Prediction/blob/main/notebook/Project_notebook.ipynb) | [Read Article](https://medium.com/@obandoandrew8/machine-learning-for-classification-problems-customer-churn-prediction-ae46c574e60) | [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzkyMzE5Y2ItNTdmZi00NTQ0LThjMDEtOGIyOWY5ZDliZDg1IiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9) |
 
-
-<h2> 🚀 &nbsp;Some Tools Used For The Project</h2>
+##  Some Tools Used For The Project 🚀
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="45" height="45"/>
