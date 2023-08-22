@@ -14,12 +14,19 @@ The churn analytics predictive model is a data-driven solution designed to addre
 ## 📑 Table of Contents 🔖
 - [Project Overview](#project-overview)
 - [Project Links](#Project-Links)
+- [Some Tools Used For The Project](#Some-Tools-Used-For-The-Project)
+- [Dataset](#Dataset)
+- [Process](#Process)
+- [Conclusion and Recommendation](#Conclusion-and-Recommendation)
+- [How to use this repository](#How-to-use-this-repository)
+- [Author](#Author)
 
 ## Project Links 🔗
 
-| Code | Name                                     |             Published Article             |                                                                                                                                                          PowerBI Dashboard |
+| Code | Notebook                                     |             Published Article             |                                                                                                                                                          PowerBI Dashboard |
 | ---- | ---------------------------------------- | :---------------------------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| LP 2 | Customer Churn Classification Project | [Read Article](https://medium.com/@obandoandrew8/machine-learning-for-classification-problems-customer-churn-prediction-ae46c574e60) | [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzkyMzE5Y2ItNTdmZi00NTQ0LThjMDEtOGIyOWY5ZDliZDg1IiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9) |
+| LP 2 | [Customer Churn Classification Model](https://github.com/Azie88/ML-Classification-Customer-Churn-Prediction/blob/main/notebook/Project_notebook.ipynb) | [Read Article](https://medium.com/@obandoandrew8/machine-learning-for-classification-problems-customer-churn-prediction-ae46c574e60) | [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzkyMzE5Y2ItNTdmZi00NTQ0LThjMDEtOGIyOWY5ZDliZDg1IiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9) |
+
 
 <h2> 🚀 &nbsp;Some Tools Used For The Project</h2>
 <p align="left">
@@ -29,6 +36,7 @@ The churn analytics predictive model is a data-driven solution designed to addre
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="45" height="45"/>
 </p>
+
 
 ## Dataset 💾
 
@@ -148,7 +156,8 @@ The churn analytics predictive model is a data-driven solution designed to addre
 </tbody>
 </table>
 
-## Process
+
+## Process :paper
 
 -   Pull data from multiple sources, including remote sql server database
 
@@ -171,3 +180,34 @@ The churn analytics predictive model is a data-driven solution designed to addre
 -   Prediction test and model improvements
 
 -   Conclusion and article writing
+
+
+## Conclusion and Recommendation
+
+- Number of months the customer has stayed with the company (tenure) and the contract term of the customer (contract) are the most important features that have strong correlation with churn of the customer
+
+- Vodafone should  enhance Early Customer Experience because in the first 5-10 months,  customer tenure shows a higher churn rate, suggesting that customer experience in the initial stages is vital. Focusing on improving onboarding processes, service quality, and addressing customer concerns during this crucial period with tech support can enhance customer satisfaction and loyalty.
+
+- Vodafone should Promote Long-Term Contracts, since the analysis indicates that customers with month-to-month contracts have a significantly higher churn rate compared to those with one-year or two-year contracts. Encouraging customers to opt for longer-term contracts through incentives, benefits, and increased tech support can potentially reduce churn rates and foster customer commitment.
+
+- Hyperparameter tuning does not always drasitically improve model performance
+
+- With 80/20 train/eval split, the random forest model achieved an accuracy of ~87%
+
+- Gradient Boosting models perform well on classification tasks, compared to other regular ML models
+
+##  How to use this repository :monocle_face:
+
+1. Clone this repository: `git clone https://github.com/Azie88/ML-Classification-Customer-Churn-Prediction`
+2. Navigate to the project directory: `ML-Classification-Customer-Churn-Prediction`
+3. Explore the Jupyter notebook for detailed steps and code execution.
+4. Check out the Power BI dashboard for interactive visualizations.
+5. Read the published article for a comprehensive understanding of the project.
+
+## Author✍️
+
+Andrew Obando
+
+Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/andrewobando/)
+
+---
