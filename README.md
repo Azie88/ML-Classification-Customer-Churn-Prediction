@@ -197,8 +197,34 @@ The churn analytics predictive model is a data-driven solution designed to addre
 
 ##  How to use this repository :monocle_face:
 
+You need to have [`Python 3`](https://www.python.org/) on your system. Then you can clone this repo and being at the repo's `root :: repository_name> ...`
+
 1. Clone this repository: `git clone https://github.com/Azie88/ML-Classification-Customer-Churn-Prediction`
-2. Navigate to the project directory: `ML-Classification-Customer-Churn-Prediction`
+2. On your IDE, create A Virtual Environment and Install the required packages for the project:
+
+- Windows:
+        
+        python -m venv venv; 
+        venv\Scripts\activate; 
+        python -m pip install -q --upgrade pip; 
+        python -m pip install -qr requirements.txt  
+
+- Linux & MacOs:
+        
+        python3 -m venv venv; 
+        source venv/bin/activate; 
+        python -m pip install -q --upgrade pip; 
+        python -m pip install -qr requirements.txt  
+
+The two long command-lines have the same structure. They pipe multiple commands using the symbol ` ; ` but you can manually execute them one after the other.
+
+- **Create the Python's virtual environment** that isolates the required libraries of the project to avoid conflicts;
+- **Activate the Python's virtual environment** so that the Python kernel & libraries will be those of the isolated environment;
+- **Upgrade Pip, the installed libraries/packages manager** to have the up-to-date version that will work correctly;
+- **Install the required libraries/packages** listed in the `requirements.txt` file so that they can be imported into the python script and notebook without any issue.
+
+**NB:** For MacOs users, please install `Xcode` if you have an issue.
+
 3. Explore the Jupyter notebook for detailed steps and code execution.
 4. Check out the Power BI dashboard for interactive visualizations.
 5. Read the published article for a comprehensive understanding of the project.
@@ -210,3 +236,5 @@ Andrew Obando
 Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/andrewobando/)
 
 ---
+
+Feel free to star ⭐ this repository if you find it helpful!
