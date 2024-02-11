@@ -183,7 +183,14 @@ The churn analytics predictive model is a data-driven solution designed to addre
 
 ## Model Performance Accuracy :bar_chart:
 
-
+<table>
+    <tr>
+        <th> Accuracy Scores of trained models </th>
+    </tr>
+    <tr>
+        <td><img src="Screenshots\Model_Performance_Accuracy.png"/></td>
+    </tr>
+</table>
 
 
 ## Conclusion and Recommendation
