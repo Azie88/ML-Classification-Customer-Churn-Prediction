@@ -13,21 +13,22 @@ The churn analytics predictive model is a data-driven solution designed to addre
 
 ## Table of Contents 🔖
 - [Project Overview](#project-overview)
-- [Project Links](#project-links-)
-- [Some Tools Used For The Project](#some-tools-used-for-the-project-)
-- [Dataset](#dataset-)
+- [Project Links](#project-links-link)
+- [Some Tools Used For The Project](#some-tools-used-for-the-project-toolbox)
+- [Dataset](#dataset-floppy_disk)
 - [Process](#process)
+- [Model Performance](#model-performance-accuracy-bar_chart)
 - [Conclusion and Recommendation](#conclusion-and-recommendation)
 - [How to use this repository](#how-to-use-this-repository-monocle_face)
-- [Author](#author%EF%B8%8F)
+- [Author](#author-writing_hand)
 
-## Project Links 🔗
+## Project Links :link:
 
 | Code | Notebook                                     |             Published Article             |                                                                                                                                                          PowerBI Dashboard |
 | ---- | ---------------------------------------- | :---------------------------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | LP 2 | [Customer Churn Classification Model](https://github.com/Azie88/ML-Classification-Customer-Churn-Prediction/blob/main/notebook/Project_notebook.ipynb) | [Read Article](https://medium.com/@obandoandrew8/machine-learning-for-classification-problems-customer-churn-prediction-ae46c574e60) | [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzkyMzE5Y2ItNTdmZi00NTQ0LThjMDEtOGIyOWY5ZDliZDg1IiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9) |
 
-##  Some Tools Used For The Project 🚀
+##  Some Tools Used For The Project :toolbox:
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="45" height="45"/>
@@ -37,7 +38,7 @@ The churn analytics predictive model is a data-driven solution designed to addre
 </p>
 
 
-## Dataset 💾
+## Dataset :floppy_disk:
 
 <table>
 <thead><tr>
@@ -180,6 +181,10 @@ The churn analytics predictive model is a data-driven solution designed to addre
 
 -   Conclusion and article writing
 
+## Model Performance Accuracy :bar_chart:
+
+
+
 
 ## Conclusion and Recommendation
 
@@ -229,7 +234,7 @@ The two long command-lines have the same structure. They pipe multiple commands 
 4. Check out the Power BI dashboard for interactive visualizations.
 5. Read the published article for a comprehensive understanding of the project.
 
-## Author✍️
+## Author :writing_hand:
 
 Andrew Obando
 
