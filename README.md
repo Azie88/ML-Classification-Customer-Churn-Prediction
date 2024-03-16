@@ -1,6 +1,6 @@
 # ML-Classification-Customer-Churn-Prediction 🤖
 
-![1_MyKDLRda6yHGR_8kgVvckg](https://github.com/Azie88/ML-Classification-Customer-Churn-Prediction/assets/101363399/a4ca31a7-db9c-4966-b6ae-59c780bfef9f)
+![Customer Churn](https://github.com/Azie88/ML-Classification-Customer-Churn-Prediction/assets/101363399/a4ca31a7-db9c-4966-b6ae-59c780bfef9f)
 
 
 A telecom company (Vodafone) wants to find out the likelihood of a customer leaving the company. This project aims to build a classification model that predicts if a customer will churn or not.
@@ -193,7 +193,7 @@ The churn analytics predictive model is a data-driven solution designed to addre
     </tr>
 </table>
 
-## Dashboard :tv:
+## Power BI Dashboard :tv:
 ![Dashboard](https://github.com/Azie88/ML-Classification-Customer-Churn-Prediction/assets/101363399/0eca9b50-f193-4d62-a18e-9a17703930e8)
 
 
