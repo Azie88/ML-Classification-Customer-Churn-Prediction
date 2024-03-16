@@ -18,6 +18,7 @@ The churn analytics predictive model is a data-driven solution designed to addre
 - [Dataset](#dataset-floppy_disk)
 - [Process](#process)
 - [Model Performance](#model-performance-accuracy-bar_chart)
+- [Dashboard](#dashboard-tv)
 - [Conclusion and Recommendation](#conclusion-and-recommendation)
 - [How to use this repository](#how-to-use-this-repository-monocle_face)
 - [Author](#author-writing_hand)
@@ -26,7 +27,7 @@ The churn analytics predictive model is a data-driven solution designed to addre
 
 | Code | Notebook                                     |             Published Article             |                                                                                                                                                          PowerBI Dashboard |
 | ---- | ---------------------------------------- | :---------------------------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| LP 2 | [Customer Churn Classification Model](https://github.com/Azie88/ML-Classification-Customer-Churn-Prediction/blob/main/notebook/Project_notebook.ipynb) | [Read Article](https://medium.com/@obandoandrew8/machine-learning-for-classification-problems-customer-churn-prediction-ae46c574e60) | [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzkyMzE5Y2ItNTdmZi00NTQ0LThjMDEtOGIyOWY5ZDliZDg1IiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9) |
+| LP 2 | [Customer Churn Classification Model](https://github.com/Azie88/ML-Classification-Customer-Churn-Prediction/blob/main/notebook/Project_notebook.ipynb) | [Read Article](https://medium.com/@obandoandrew8/machine-learning-for-classification-problems-customer-churn-prediction-ae46c574e60) | [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDU2YzIzMzYtNjMyYy00NjVmLWIyZGUtZGNhNDJmZDM2MTM3IiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9) |
 
 ##  Some Tools Used For The Project :toolbox:
 <p align="left">
@@ -165,7 +166,7 @@ The churn analytics predictive model is a data-driven solution designed to addre
 
 -   Data Preprocessing and cleaning & EDA(Univariate, Bivariate and multivariate Analysis)
 
--   Ansewring the analytical questions with visualizations
+-   Answering the analytical questions with visualizations
 
 -   Deploying visualizations with PowerBI
 
@@ -192,6 +193,8 @@ The churn analytics predictive model is a data-driven solution designed to addre
     </tr>
 </table>
 
+## Dashboard :tv:
+
 
 ## Conclusion and Recommendation
 
@@ -203,7 +206,7 @@ The churn analytics predictive model is a data-driven solution designed to addre
 
 - Hyperparameter tuning does not always drasitically improve model performance
 
-- With 80/20 train/eval split, the random forest model achieved an accuracy of ~87%
+- With 80/20 train/eval split, the random forest model achieved an accuracy of ~85%
 
 - Gradient Boosting models perform well on classification tasks, compared to other regular ML models
 
