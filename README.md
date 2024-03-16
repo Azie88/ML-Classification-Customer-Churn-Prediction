@@ -249,7 +249,9 @@ The two long command-lines have the same structure. They pipe multiple commands 
 
 Andrew Obando
 
-Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/andrewobando/)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/andrewobando/)
+
+Follow me on [Medium](https://medium.com/@obandoandrew8)
 
 ---
 
