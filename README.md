@@ -194,6 +194,7 @@ The churn analytics predictive model is a data-driven solution designed to addre
 </table>
 
 ## Dashboard :tv:
+![Dashboard](https://github.com/Azie88/ML-Classification-Customer-Churn-Prediction/assets/101363399/0eca9b50-f193-4d62-a18e-9a17703930e8)
 
 
 ## Conclusion and Recommendation
