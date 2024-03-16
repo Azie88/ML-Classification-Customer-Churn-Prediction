@@ -18,7 +18,7 @@ The churn analytics predictive model is a data-driven solution designed to addre
 - [Dataset](#dataset-floppy_disk)
 - [Process](#process)
 - [Model Performance](#model-performance-accuracy-bar_chart)
-- [Dashboard](#dashboard-tv)
+- [Dashboard](#power-bi-dashboard-tv)
 - [Conclusion and Recommendation](#conclusion-and-recommendation)
 - [How to use this repository](#how-to-use-this-repository-monocle_face)
 - [Author](#author-writing_hand)
