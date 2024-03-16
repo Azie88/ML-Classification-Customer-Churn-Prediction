@@ -27,7 +27,7 @@ The churn analytics predictive model is a data-driven solution designed to addre
 
 | Code | Notebook                                     |             Published Article             |                                                                                                                                                          PowerBI Dashboard |
 | ---- | ---------------------------------------- | :---------------------------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| LP 2 | [Customer Churn Classification Model](https://github.com/Azie88/ML-Classification-Customer-Churn-Prediction/blob/main/notebook/Project_notebook.ipynb) | [Read Article](https://medium.com/@obandoandrew8/machine-learning-for-classification-problems-customer-churn-prediction-ae46c574e60) | [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDU2YzIzMzYtNjMyYy00NjVmLWIyZGUtZGNhNDJmZDM2MTM3IiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9) |
+| LP 2 | [Customer Churn Classification Model](https://github.com/Azie88/ML-Classification-Customer-Churn-Prediction/blob/main/Project_notebook.ipynb) | [Read Article](https://medium.com/@obandoandrew8/machine-learning-for-classification-problems-customer-churn-prediction-ae46c574e60) | [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDU2YzIzMzYtNjMyYy00NjVmLWIyZGUtZGNhNDJmZDM2MTM3IiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9) |
 
 ##  Some Tools Used For The Project :toolbox:
 <p align="left">
