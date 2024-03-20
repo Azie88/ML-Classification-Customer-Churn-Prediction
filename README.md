@@ -209,7 +209,7 @@ The churn analytics predictive model is a data-driven solution designed to addre
 
 - With 80/20 train/eval split, the random forest model achieved an accuracy of ~85%
 
-- Gradient Boosting models perform well on classification tasks, compared to other regular ML models
+- Tree Based models perform well on classification tasks, compared to other regular ML models
 
 ##  How to use this repository :monocle_face:
 
