@@ -170,7 +170,7 @@ The churn analytics predictive model is a data-driven solution designed to addre
 
 -   Deploying visualizations with PowerBI
 
--   Balancing the dataset with SMOTE algorithm for overfitting
+-   Balancing the dataset with SMOTE algorithm for oversampling
 
 -   Feature engineering and scaling
 
@@ -207,7 +207,7 @@ The churn analytics predictive model is a data-driven solution designed to addre
 
 - Hyperparameter tuning does not always drasitically improve model performance
 
-- With 80/20 train/eval split, the random forest model achieved an accuracy of ~85%
+- With 80/20 train/eval split, the random forest model achieved an accuracy of ~86%
 
 - Tree Based models perform well on classification tasks, compared to other regular ML models
 
