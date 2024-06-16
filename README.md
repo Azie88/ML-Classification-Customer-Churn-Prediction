@@ -25,9 +25,9 @@ The churn analytics predictive model is a data-driven solution designed to addre
 
 ## Project Links :link:
 
-| Code | Notebook                                     |             Published Article             |                                                                                                                                                          PowerBI Dashboard |
-| ---- | ---------------------------------------- | :---------------------------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| LP 2 | [Customer Churn Classification Model](https://github.com/Azie88/ML-Classification-Customer-Churn-Prediction/blob/main/Project_notebook.ipynb) | [Medium Article](https://medium.com/@obandoandrew8/machine-learning-for-classification-problems-customer-churn-prediction-ae46c574e60) | [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWE3MjUyZDQtOTQwMi00MzRiLTk0MGItOTY0MDkwYTExNWY5IiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9) |
+| Notebook                                     |             Published Article             |                                                                                                                                                          PowerBI Dashboard |
+| ---------------------------------------- | :---------------------------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [Customer Churn Classification Model](https://github.com/Azie88/ML-Classification-Customer-Churn-Prediction/blob/main/Project_notebook.ipynb) | [Medium Article](https://medium.com/@obandoandrew8/machine-learning-for-classification-problems-customer-churn-prediction-ae46c574e60) | [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWE3MjUyZDQtOTQwMi00MzRiLTk0MGItOTY0MDkwYTExNWY5IiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9) |
 
 ##  Some Tools Used For The Project :toolbox:
 <p align="left">
@@ -196,6 +196,7 @@ The churn analytics predictive model is a data-driven solution designed to addre
 ## Power BI Dashboard :tv:
 ![Dashboard](https://github.com/Azie88/ML-Classification-Customer-Churn-Prediction/assets/101363399/0eca9b50-f193-4d62-a18e-9a17703930e8)
 
+[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWE3MjUyZDQtOTQwMi00MzRiLTk0MGItOTY0MDkwYTExNWY5IiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9)
 
 ## Conclusion and Recommendation
 
@@ -207,9 +208,9 @@ The churn analytics predictive model is a data-driven solution designed to addre
 
 - Hyperparameter tuning does not always drasitically improve model performance
 
-- With 80/20 train/eval split, the random forest model achieved an accuracy of ~86%
+- With 80/20 train/eval split, the random forest model achieved an accuracy of ~86% after hyperparameter tuning
 
-- Tree Based models perform well on classification tasks, compared to other regular ML models
+- Ensemble methods perform well on classification tasks, compared to using single classifiers
 
 ##  How to use this repository :monocle_face:
 
@@ -249,9 +250,10 @@ The two long command-lines have the same structure. They pipe multiple commands 
 
 Andrew Obando
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/andrewobando/)
-
-Follow me on [Medium](https://medium.com/@obandoandrew8)
+<a href="https://www.linkedin.com/in/andrewobando/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Andrew Obando | LinkedIn"/></a>
+<a href="https://medium.com/@obandoandrew8">
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+</a>
 
 ---
 
